@@ -12,6 +12,7 @@ pytz
 aiohttp
 cinemagoer
 shortzy
+asyncio
 
 PyLeaves==1.0.2
 cinemagoer
