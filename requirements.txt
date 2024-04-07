@@ -10,7 +10,7 @@ git+https://github.com/Joelkb/cinemagoer
 datetime
 pytz
 aiohttp
-cinemagoera
+cinemagoer
 shortzy
 
 PyLeaves==1.0.2
