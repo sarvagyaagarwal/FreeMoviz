@@ -55,7 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://freeMoviz:<nYmD-pR@87Prfd.>@cluster0.a7yzmnr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "description": "mongodb+srv://freeMoviz:<nYmD-pR@87Prfd.>@cluster0.a7yzmnr.mongodb.net/",
             "required": true
         },
         "DATABASE_NAME": {
