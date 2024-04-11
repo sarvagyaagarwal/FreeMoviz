@@ -43,7 +43,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "https://t.me/+szZIZDCHMz4zY2Q9",
+            "description": "-2065641485",
             "required": true
         },
         "AUTH_USERS": {
@@ -55,7 +55,7 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://freeMoviz:<nYmD-pR@87Prfd.>@cluster0.a7yzmnr.mongodb.net/",
+            "description": "mongodb+srv://freeMoviz:<nYmD-pR@87Prfd.>@cluster0.a7yzmnr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         },
         "DATABASE_NAME": {
